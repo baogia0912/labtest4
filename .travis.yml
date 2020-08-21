@@ -6,6 +6,4 @@ jdk:
 
 os : linux
 
-dist: 
-  - trusty
-  - precise
+dist: trusty
